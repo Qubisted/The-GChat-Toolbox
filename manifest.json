@@ -7,6 +7,7 @@
         "scripts": ["scripts/background.js"],
         "persistent": false
       },
+      
     "version": "0.1",
     
     "page_action": {
